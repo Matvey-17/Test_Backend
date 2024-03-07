@@ -1,4 +1,4 @@
-from models import Group, Product, Enrollment
+from products.models import Group, Product, Enrollment
 from users.models import User
 
 from django.utils import timezone

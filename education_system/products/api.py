@@ -1,5 +1,5 @@
 from rest_framework import serializers, viewsets
-from models import Lesson, Product, ProductValid, Group
+from products.models import Lesson, Product, ProductValid, Group
 from users.models import User
 
 
